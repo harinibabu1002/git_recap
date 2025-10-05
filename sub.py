@@ -1,1 +1,1 @@
-print("Subtraction in person1")
+print("subtraction"
